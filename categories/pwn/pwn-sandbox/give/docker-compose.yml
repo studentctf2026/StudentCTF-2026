@@ -1,0 +1,7 @@
+services:
+  secure-shellcode-runner:
+    build: .
+    container_name: secure-shellcode-runner
+    ports:
+      - "5555:5555"
+    restart: unless-stopped

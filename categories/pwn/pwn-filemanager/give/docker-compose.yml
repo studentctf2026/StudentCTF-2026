@@ -1,0 +1,6 @@
+services:
+  heap-notes:
+    build: .
+    ports:
+      - "45454:45454"
+    restart: unless-stopped
