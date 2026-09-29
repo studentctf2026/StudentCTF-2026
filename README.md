@@ -31,3 +31,8 @@
 - [CAMPUS COURIER](categories/web/web-race-game/solution/writeup.md)
 - [Мои расходы](categories/web/web-sqli-expenses/solution/writeup.md)
 - [SupportDesk](categories/web/web-ssrf-supportdesk/solution/writeup.md)
+
+
+#### Forensics
+
+- [Секретный ноутбук](categories/forensic/give/give.md)
