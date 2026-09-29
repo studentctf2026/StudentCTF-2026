@@ -8,6 +8,8 @@
 
 >Кажется сотрудники ЦРУ потеряли свой ноутбук. Хорошо для них, что он надежно хранит все секреты которые на нем хранятся. Надежно же?
 
+[Сдать флаг](http://31.76.127.142)
+
 part 1 - https://drive.google.com/file/d/1IYcU8NP6O6G32CHJlxX90rzdhG5K0jOC/view?usp=sharing
 
 part 2 - https://drive.google.com/file/d/1SZjgqv_2-J17dstsVDgaQQnQZmy3hFHl/view?usp=sharing
